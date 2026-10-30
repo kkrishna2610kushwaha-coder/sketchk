@@ -1,24 +1,4 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "34e0a284",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "1 numpy \n",
-    "2 matplotlib\n",
-    "3 opencv-python_\n",
-    "4 streamlit "
-   ]
-  }
- ],
- "metadata": {
-  "language_info": {
-   "name": "python"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+1 numpy 
+2 matplotlib
+3 opencv-python_
+4 streamlit 
