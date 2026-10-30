@@ -1,4 +1,4 @@
-1 numpy 
-2 matplotlib
-3 opencv-python_
-4 streamlit 
+numpy 
+matplotlib
+opencv-python_
+streamlit 
